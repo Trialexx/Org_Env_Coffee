@@ -18,6 +18,10 @@
 		{
 			"Name": "ImpostorBaker",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
